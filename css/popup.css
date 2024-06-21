@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.Name {
+    background-color: #f0f0f0;
+    color: #535cd7;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+}
+
+.settings {
+    margin-top: 5px;
+    padding: 10px;
+    width: 300px;
+}
+
+#test_btn {
+    box-shadow: none;
+    background-color: #4d90fe;
+    background-image: -webkit-linear-gradient(top, #4d90fe, #4787ed);
+    border: 1px solid #3079ed;
+    color: #fff;
+    border-radius: 2px;
+    cursor: default;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    margin-left: 124px;
+    height: 27px;
+    line-height: 27px;
+    width: 54px;
+    outline: 0px;
+    padding: 0 8px;
+    box-sizing: content-box; 
+}
+
+#test_btn:hover {
+    /* 鼠标移入按钮范围时改变颜色 */
+    background: #317bf1;
+}
+
+#adb {
+    color: #3079ed;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    margin: 2px;
+    height: 23px;
+    position: absolute;
+    top: 55px;
+    left: 120px;
+}
+
+.checkbtn{
+    font-size: 14px;
+    margin: 2px;
+    height: 18px;
+    position: absolute;
+    top: 55px;
+    left: 180px;
+}
+
+.text {
+    background-color: #f0f0f0;
+    color: #636363;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    margin-top: 9px;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+}
+
